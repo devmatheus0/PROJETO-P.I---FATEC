@@ -11,6 +11,8 @@ Objetivo
 - Contribuir para a redução dos custos de transporte.
 - Incentivar o compartilhamento de veículos.
 
+-  A principal ODS relacionada ao projeto é a ODS 11 – Cidades e Comunidades Sustentáveis, especialmente por abordar a melhoria da mobilidade urbana e o acesso a sistemas de transportes mais acessíveis e sustentáveis
+
 Público-alvo:
 Estudantes de cursos técnicos, profissionalizantes, faculdades e universidades.
 
